@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "295118156097",
+    "project_id": "clonestagram-1f175",
+    "storage_bucket": "clonestagram-1f175.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295118156097:android:c96f6efc64ecd57ac671c0",
+        "android_client_info": {
+          "package_name": "com.kotdev99.android.clonestagram"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhpM4-7syvcSNCGZdGNbkVaxrheXcnsss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
